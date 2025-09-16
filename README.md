@@ -16,7 +16,7 @@
 
 <h1 align="center">About Me</h1>
 
-<p align="center">I'm a passionate developer with a keen interest in Data Science, Artificial Intelligence, Quantitative Finance, and Augmented & Virtual Reality. I enjoy exploring emerging technologies and continuously expanding my skill set through ongoing learning.</p>
+<p align="center">I'm a passionate developer with a keen interest in Data Science, Artificial Intelligence, Machine Learning, and Augmented & Virtual Reality. I enjoy exploring emerging technologies and continuously expanding my skill set through ongoing learning :)</p>
 
 
 <!--
